@@ -1,0 +1,4 @@
+mp4 normal = vidéo avec son
+mp4 video = video sans son
+
+webm audio/m4a audio = uniquement mp3 sans vidéo et avec son
